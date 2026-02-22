@@ -64,7 +64,7 @@ Built RESTful API with Java/C# connected to SQL database.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandalandan&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pandalandan&show_icons=true&theme=tokyonight)
 
 ---
 
