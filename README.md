@@ -7,6 +7,7 @@ Hi, I'm Daniel 👋
 <br>🚀 About Me<br>
 I’m a full-stack developer focused on building scalable web applications and clean user experiences.
 <br>I enjoy designing and building whatever I can imagine. If an idea pops into my head, chances are I'll build it and ship it.<br>
+I love to learn and will accept challenges even if I have to learn a new language.
 
 <br>Currently building: <br>
 ### 🌐 Client Website Redesign
