@@ -8,7 +8,9 @@ Hi, I'm Daniel 👋
 I’m a full-stack developer focused on building scalable web applications and clean user experiences.<br>
 <br>I enjoy working across the stack — from responsive frontend interfaces to backend APIs and database design.<br>
 
-<br>Currently building:<br>
+<br>Currently building: <br>
+### 🌐 Client Website Redesign
+Redesigned a nonprofit language school website with improved UX, accessibility, and modern UI structure. <br>[Link: https://www.vinterlanguageschool.com/]
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
