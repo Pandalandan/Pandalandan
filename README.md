@@ -5,8 +5,8 @@ Hi, I'm Daniel 👋
 <br>📍 Maryland, USA
 <br>
 <br>🚀 About Me<br>
-I’m a full-stack developer focused on building scalable web applications and clean user experiences.<br>
-<br>I enjoy working across the stack — from responsive frontend interfaces to backend APIs and database design.<br>
+I’m a full-stack developer focused on building scalable web applications and clean user experiences.
+<br>I enjoy designing and building whatever I can imagine. If an idea pops into my head, chances are I'll build it and ship it.<br>
 
 <br>Currently building: <br>
 ### 🌐 Client Website Redesign
