@@ -11,7 +11,7 @@ I love to learn and will accept challenges even if I have to learn a new languag
 
 <br>Currently building: <br>
 ### 🌐 Client Website Redesign
-Redesigned a nonprofit language school website with improved UX, accessibility, and modern UI structure. <br>[Link: https://www.vinterlanguageschool.com/]
+Redesigning a nonprofit language school website with improved UX, accessibility, and modern UI structure. <br>[Link: https://www.vinterlanguageschool.com/]
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
